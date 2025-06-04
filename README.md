@@ -16,7 +16,7 @@ To analyze and visualize sales data in order to:
 
 ## 📂 Dataset
 
-- *File Name*: Diwali Sales Data.csv
+- *File Name*: Sales Data.csv
 - *Source*: Simulated e-commerce data
 - *Fields include*: Gender, Age Group, Marital Status, Occupation, Product Category, Amount, Orders, etc.
 
