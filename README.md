@@ -58,9 +58,3 @@ To analyze and visualize sales data in order to:
 - *Evening hours* show higher order frequency, ideal for campaign targeting
 - The top-selling products provide scope for *inventory planning and combo offers*
 
----
-📁 Sales-Analysis-Using-Python/
-│
-├── Sales_Analysis.ipynb      # Main analysis notebook
-├── Diwali Sales Data.csv     # Dataset file
-└── README.md                 # Project overview
